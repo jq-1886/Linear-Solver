@@ -1,0 +1,11 @@
+
+Averaged over 489 times (out of 500 loops)
+Tolerance = 0.001
+Input Matrix A size is 100 x 100
+
+Average time for Jacobi = 0.692581milliseconds
+Average time for Gauss Seidel = 0.984008milliseconds
+Average time for Successive over relaxation = 2.05118milliseconds
+Average time for Conjugate Gradient = 16.0396milliseconds
+Average time for LU = 3.86539milliseconds
+Average time for Cholesky = 2.31239milliseconds
